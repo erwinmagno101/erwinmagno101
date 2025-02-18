@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Dan Erwin C. Magno</h1>
-  <p>Still learning, coz it never ends.</p>
+<h1 align="center">Hi I'm Dan! Welcome 👋🏻</h1>
+<p align="center">💭 Apologies, still learning, coz it never ends.</p>
 
 <br>
 
-<p align="center">Frontend Technologies</p>
+<p align="center">🖼️ Frontend Technologies</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue_Js-0d1117?logo=vuedotjs&style=flat-square">
   <img src="https://img.shields.io/badge/Next_Js-0d1117?logo=nextdotjs&style=flat-square">
@@ -21,7 +21,7 @@
 
 <br>
 
-<p align="center">Backend Technologies</p>
+<p align="center">⚙️ Backend Technologies</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-0d1117?logo=laravel&style=flat-square">
   <img src="https://img.shields.io/badge/Inertia-0d1117?logo=inertia&style=flat-square">
@@ -33,7 +33,7 @@
 
 <br>
 
-<p align="center">Tools and Platforms</p>
+<p align="center">🔧 Tools and Platforms</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-0d1117?logo=figma&style=flat-square">
   <img src="https://img.shields.io/badge/Github-0d1117?logo=github&style=flat-square">
